@@ -1,0 +1,30 @@
+Hello world in apps script
+
+The apps script is using the javascript as the programming language
+
+function dsadsad() {
+  Logger.log("Hello World!!");
+}
+
+Here it seems to be very kind for us.
+
+After using "ctrl + enter", there came out something like a log:
+
+[17-11-29 23:10:42:372 JST] Hello World!!
+
+I am treating it as the macro of google.Also,I think it is like macro in macrosoft. Just for automatical office works.
+Now it is supporting almost everything: like database, maps, mail, locations, file, translation and so on that the functions
+Google provided to us. It is more friendly than macrosoft because it is using Javascript. Which is much more easier than the
+VBA or VBS or VB...
+
+You know it is not a good thing to debug in VBE. But it is much more easier to debug in IDE provided by google. Also we are 
+using the services provided by macrosoft, and it is so wildly use so sometimes we have to use tech provided by macrosoft.
+For further thinking. What can apps script do? It can do whatever the tranditional services that Google provided to us. Just like
+that we can use some macros in Word or Excel. We can also use some functions provided by google.
+
+Here is the point. The core of software is the "service".Which makes customers wants to use it. So above all, we can see almost 
+all the services provided by these apis or these GUIs. They are just what they are. In the eyes of developers, these services 
+are like apis. In usual users, they are just some GUIs. Anyway, after all, we are serving the society. So, we, developers are 
+serving the society in some way everyday, which makes us having the worth to be alive.
+
+So as in my eye, the bigger the company is, they sell service, not selling products. They serve society, not served by society.
